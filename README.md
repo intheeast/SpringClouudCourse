@@ -1,4 +1,4 @@
-# SpringCloudCourse
+# Spring Cloud Course
 
 ## 자바 교육
 
